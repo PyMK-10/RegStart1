@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">РСВ. Учись и зарабатывай!</string>
+    <string name="underline_user_accept"><u>Пользовательское соглашение</u></string>
+    <string name="user_help">Вы у нас впервые? Выберите помощника,
+        \nкоторый упростит навигацию по нашим материалам.
+        \n\nХотите <b>сюрприз</b>? У помощников есть <b>промокоды</b>!</string>
+    <string name="read_more"><u>Читать далее...</u></string>
+</resources>
